@@ -1,0 +1,17 @@
+{
+  "name": "tbifaf",
+  "version": "1.0.0",
+  "description": "this bot is for a friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Scott",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7",
+    "slash-create": "^5.13.0"
+  }
+}
